@@ -5,7 +5,7 @@
 <p align="left">
 🎓 <b>Education:</b> 3rd Year Computer Engineering Student at Inonu University.<br>
 💻 <b>Core Skills:</b> Strong foundation in Object-Oriented Programming (OOP), Data Structures, Image Processing and Database Systems.<br>
-🚀 <b>Current Goal:</b> Actively seeking software internship opportunities to apply my skills in real-world projects.
+🚀 <b>Current Goal:</b> I want to apply my skills in real-world projects.
 </p>
 <br>
 
